@@ -4,27 +4,31 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 First Commit
 ============
+<pre>
 Added a property hero in AppComponent
 Added a Hero class
 Created multi-line Template and learned interpolation binding syntax- double curly braces {{}}
 Learned two way binding using [(ngModel)] (form)
+</pre>
 
 Second Commit
 =============
+<pre>
 Created HERO array
 Learned how type is understood from <code>Typescript</code>
 *ngFor - Master Template
 Event binding on template
 Structural build in directive ngIf
 [class] binding
-
+</pre>
 Third Commit
 ============
+<pre>
 File naming and class naming in Angular
 Input Properties in Attribute Directives
 Declaring required application directive in NgModule
 Bind parent component to child component
-
+</pre>
 
 
 
