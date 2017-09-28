@@ -30,6 +30,17 @@ Declaring required application directive in NgModule
 Bind parent component to child component
 </pre>
 
+Fourth Commit
+=============
+- How to write a service 
+- Service file name should be name1-name2.service.ts
+- Import Angular Injectable function and apply the function as @Injectable() decorator
+- @Injectable decorator tells Typescript to emit meta data about the service. Metadata mention Angular need to inject dependencies into service
+- Inject Service without new keyword
+- new Keyword will create a new service each time
+- Inject Service using constructor method with private property and components provider metadata
+- Angular oninit Lifecycle hook (interface which needs to be implement)
+- Promise essentially promises to call back when the results are ready. You ask an asynchronous service to do some work and give it a callback function.
 
 
 ## Development server
